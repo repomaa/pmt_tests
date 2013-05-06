@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<A xmlns="http://some.example.org" some_attribute="some value" some_other_attribute="some other value"><B xmlns="http://some.other.example.org"><C><D1/><D2/><D3><E1/><E2/><E3><F1><G1/><G2/></F1><F2/><F3><G3/><G4/></F3></E3><E4/><E5/></D3><D4/><D5/></C></B></A>
